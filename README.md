@@ -1,44 +1,279 @@
-<h1 align="center">Hi 👋, I'm Ureshii</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ureshiiwithoutyou&label=Profile%20views&color=0e75b6&style=flat" alt="ureshiiwithoutyou" /> </p>
+# 👋 Hey, I'm **URESHII**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ureshiiwithoutyou" alt="ureshiiwithoutyou" /></a> </p>
+### `Frontend Developer` • `UI/UX Designer` • `Creative Developer` • `Content Creator`
 
-- 🔭 I’m currently working on [CU KAISEN](https://cukaisen.vercel.app/)
+<img src="https://komarev.com/ghpvc/?username=UreshiiWithoutYou&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 
-- 🌱 I’m currently learning **Content Creation.**
+<br/>
 
-- 👯 I’m looking to collaborate on [JUJUTSU KAISEN HACKATHON](https://cukaisen.vercel.app/)
+<a href="https://github.com/UreshiiWithoutYou">
+  <img src="https://img.shields.io/github/followers/UreshiiWithoutYou?label=Followers&style=for-the-badge&color=8B5CF6" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/UreshiiWithoutYou?tab=repositories">
+  <img src="https://img.shields.io/github/stars/UreshiiWithoutYou?label=Stars&style=for-the-badge&color=8B5CF6" alt="GitHub Stars"/>
+</a>
 
-- 🤝 I’m looking for help with [Zinnovatio 4.0](https://github.com/UreshiiWithoutYou)
+</div>
 
-- 💬 Ask me about **UI/UX.**
+---
 
-- 📫 How to reach me **ureshi3000@gmail.com**
+## 🧑‍💻 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1At-IH4meyspIRhxPE1REV2dwhsLIu9o9?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto](https://drive.google.com/drive/folders/1At-IH4meyspIRhxPE1REV2dwhsLIu9o9?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+```yaml
+name: Ureshii
+username: UreshiiWithoutYou
+role:
+  - Frontend Developer
+  - UI/UX Designer
+  - Creative Developer
+  - Video Editor
 
-- ⚡ Fun fact **Under-13 & 15 Nation Badmintion.**
+currently_building:
+  - CU KAISEN
+  - Innovative web experiences
+  - Hackathon projects
 
-<h3 align="left">Connect with me:</h3>
+currently_learning:
+  - Advanced Frontend Development
+  - UI/UX Design
+  - Content Creation
+  - Creative Development
+
+interests:
+  - Web Development
+  - Product Design
+  - Startups
+  - AI & Emerging Technology
+  - Innovation & Hackathons
+
+fun_fact:
+  - National-level badminton experience
+```
+
+> **I don't just write code — I build experiences.**
+
+I enjoy turning ideas into interactive digital products, combining **development, design, creativity and storytelling** to create projects that people actually want to use.
+
+---
+
+# 🚀 What I'm Working On
+
+### 🎌 CU KAISEN
+A creative web experience built around the **Jujutsu Kaisen Hackathon**.
+
+🔗 **Live:** https://cukaisen.vercel.app/
+
+### 🧠 ZINNOVATION 4.0
+Exploring innovative technology and building solutions designed to solve real-world problems.
+
+### 🎨 Creative Development
+Currently experimenting with modern interfaces, animations, immersive web experiences and UI/UX.
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p align="left">
-<a href="https://dev.to/https://dev.to/ureshiiwithoutyou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ureshiiwithoutyou" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhundi-raj-adhikari-602366399/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhundi-raj-adhikari-602366399/?isselfprofile=true" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/ureshiiwithoutyou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ureshiiwithoutyou" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/lee_or22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lee_or22/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ureshiieditz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ureshiieditz" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sane_valley_51/edit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sane_valley_51/edit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/25bcs13600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/25bcs13600" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ureshiwithoutyou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ureshiwithoutyou/" height="30" width="40" /></a>
-<a href="https://discord.gg/ureshiff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ureshiff" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,php" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+### ⚛️ Frontend & Frameworks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ureshiiwithoutyou&show_icons=true&locale=en&layout=compact" alt="ureshiiwithoutyou" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ureshiiwithoutyou&show_icons=true&locale=en" alt="ureshiiwithoutyou" /></p>
+### 🗄️ Database & Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ureshiiwithoutyou&" alt="ureshiiwithoutyou" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,sqlite,redis" />
+</p>
+
+### 🎨 Design & Creative Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,arduino" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/UreshiiWithoutYou">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UreshiiWithoutYou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/UreshiiWithoutYou">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UreshiiWithoutYou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UreshiiWithoutYou&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UreshiiWithoutYou&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 📦 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/UreshiiWithoutYou?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/UreshiiWithoutYou?tab=stars">
+<img src="https://img.shields.io/badge/Stars-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/UreshiiWithoutYou?tab=followers">
+<img src="https://img.shields.io/badge/Followers-Connect-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UreshiiWithoutYou&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/UreshiiWithoutYou">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UreshiiWithoutYou&repo=CU-KAISEN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+</a>
+
+<a href="https://github.com/UreshiiWithoutYou">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UreshiiWithoutYou&repo=ZINNOVATION&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+</a>
+
+</div>
+
+> **Replace the repository names above with the exact names of your real repositories.**  
+> This prevents the project cards from becoming broken if those repository names don't exist.
+
+---
+
+# 🏆 Achievements
+
+- 🏸 **National-level Badminton Player**
+- 🥇 **Under-13 & Under-15 Badminton**
+- 🏆 **State-level Badminton Ranking Experience**
+- 🏓 **District-level Table Tennis**
+- 💻 **Hackathon & Innovation Projects**
+- 🎨 **UI/UX & Creative Development**
+- 🚀 Building projects around technology, creativity and real-world problems
+
+---
+
+# 🧩 My Development Philosophy
+
+```text
+Think → Design → Build → Test → Improve → Ship
+```
+
+I believe good products sit at the intersection of:
+
+**Technology × Design × Creativity × Problem Solving**
+
+---
+
+# 🎯 Current Goals
+
+```text
+[████████████████████░░] Frontend Development
+[██████████████████░░░░] UI/UX Design
+[████████████████░░░░░] Creative Development
+[██████████████░░░░░░░] Content Creation
+[████████████░░░░░░░░░] Entrepreneurship
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhundi-raj-adhikari-602366399/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/lee_or22/">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@ureshiieditz">
+<img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ureshiwithoutyou/">
+<img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/25bcs13600">
+<img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/ureshiff">
+<img src="https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+**Have an idea, project or collaboration in mind?**
+
+📧 **ureshi3000@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *Building ideas into experiences.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+
+</div>
